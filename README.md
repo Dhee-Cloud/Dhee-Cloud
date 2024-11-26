@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Dhee-Cloud
-- 👀 I’m interested in Cloud Computing and DevOps
-- 🌱 I’m currently learning about the cloud gathering knowledge and experience on key concepts needed to be a Cloud/DevOps Engineer
-- 💞️ I’m looking to collaborate on Clpud Projects 
-📫 You can reach me through my email: uduakabasiasuquo6@gmail.com, X (f.K.A Twitter): Dhee Cloud, LinkedIn: Uduakabasi Umo-Odiong, and Whatsapp:+2348159659247
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: A lifelong learner and growth-oriented, and I love to read and play video games in my leisure time
+- 👋 Hi, I am uduak Umo-Odiong (Dhee-Cloud)
+- 👀 I’m an AWS cloud computing practitioner as well as an Aspiring DevOps Engineer
+- 🌱 I’m currently learning cloud networking and Python Programming Language
+- 💞️ I’m looking to collaborate on Cloud Projects 
+- ⚡ Fun fact:  I love to read and explore profiles and portfolios of veterans to learn from them and their works.
 
 <!---
 Dhee-Cloud/Dhee-Cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
